@@ -25,9 +25,3 @@ buttons.map( button => {
         }
     });
 });
-
-
-
-
-
-
